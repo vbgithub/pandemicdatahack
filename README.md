@@ -1,2 +1,2 @@
 # pandemicdatahack
-Репозиторий ml моделью для Pandemic Data Hack
+Репозиторий команды "Шуба_" с ml моделью для Pandemic Data Hack
